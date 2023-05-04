@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-We are <img src="https://raw.githubusercontent.com/fullSports/Sig3_components/main/public/icone.png" width="25"> FullSports, a project created in the DSM course at Fatec Zona Leste - São Paulo, Brazil. 
+We are <img src="https://raw.githubusercontent.com/fullSports/Sig3_components/main/public/icone.png" width="23"> FullSports, a project created in the DSM course at Fatec Zona Leste - São Paulo, Brazil. 
 Get to know us and visit our website https://www.fullsports.dev.br
 
 members:
