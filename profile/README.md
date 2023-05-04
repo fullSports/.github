@@ -6,7 +6,7 @@ We are FullSports, a project created in the DSM course at Fatec Zona Leste - Sã
   <p align="center">A progressive Get to know us and visit our website</p>
     <p align="center">
   <a href="https://www.fullsports.dev.br" target="_blank">
-  <img src ="https://upload-image-fullsports.s3.us-east-1.amazonaws.com/f09b1d4197ce03321ca8b2563c3b66b4-icone.svg" width="220" height="120">
+  <img src ="https://upload-image-fullsports.s3.us-east-1.amazonaws.com/f09b1d4197ce03321ca8b2563c3b66b4-icone.svg" width="120" height="80">
   </a>
 </p>
 
